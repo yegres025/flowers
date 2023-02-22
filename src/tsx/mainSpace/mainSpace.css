@@ -1,0 +1,10 @@
+.main_space_wrap {
+  margin: 0 auto;
+  border: 1px solid black;
+  height: 800px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 1000px;
+  background-color: rgba(155, 147, 147, 0.3);
+}/*# sourceMappingURL=mainSpace.css.map */
